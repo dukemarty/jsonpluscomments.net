@@ -1,2 +1,27 @@
-# jsonpluscomments.net
-JsonPlusComments.Net is a .NET library for parsing, editing, and serializing JSON with full comment support, in some ways not unlike traditional JSONC implementations. The plan is to preserves comment structure, position, and formatting — making it ideal for config files, developer tooling, and human-readable data formats.
+# JsonPlusComments.Net
+
+**JsonPlusComments.Net** is a .NET library for parsing, editing, and serializing JSON—with full comment support and zero apologies. Inspired by JSONC, but not bound by it, this library preserves comment structure, position, and formatting like a pro.
+
+Whether you're wrangling config files, building dev tools, or just tired of your JSON being a silent partner, JsonPlusComments.Net lets your data speak human.
+
+> 🐞 **Tagline:** *“Comments aren’t bugs. They’re features.”*
+
+---
+
+### Why Use This?
+
+- Supports both `//` and `/* */` comments
+- Keeps comments exactly where you left them
+- Ideal for readable configs, editors, and tooling
+- Extensible for custom comment handling
+- Built for .NET devs who like their JSON with a side of sass
+
+---
+
+### Coming Soon
+
+- Sample usage
+- NuGet install instructions
+- API docs
+- ...
+- and first and foremost: some implementation 😅
