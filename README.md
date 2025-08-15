@@ -25,3 +25,15 @@ Whether you're wrangling config files, building dev tools, or just tired of your
 - API docs
 - ...
 - and first and foremost: some implementation 😅
+
+---
+
+### 📄 Project Rationale
+
+💡 Curious why this library exists or why comment-aware JSON matters?
+
+Check out the full whitepaper:  
+📘 [Preserving Meaning: Comment-Aware JSON for Configuration in .NET](docs/comment-aware-json-whitepaper.md)
+
+> *“Comments aren’t bugs. They’re features.”*
+
