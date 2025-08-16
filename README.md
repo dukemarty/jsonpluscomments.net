@@ -37,3 +37,10 @@ Check out the full whitepaper:
 
 > *“Comments aren’t bugs. They’re features.”*
 
+
+### Philosophy
+
+📘 [Comment Handling Blue Paper](docs/comment-handling-bluepaper.md)  
+A deep dive into how comments are preserved, transformed, and respected across JSON structures.
+
+
