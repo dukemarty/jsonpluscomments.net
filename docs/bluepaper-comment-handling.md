@@ -1,7 +1,6 @@
-# 📘 JsonPlusComments.Net Blue Paper  
-## Principles and Practices for Comment Preservation in Structured Data
+# 🧾 JsonPlusComments.Net Bluepaper
 
----
+## Principles and Practices for Comment Preservation in Structured Data
 
 ### 1. Introduction
 
