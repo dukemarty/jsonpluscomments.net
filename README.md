@@ -38,9 +38,10 @@ Check out the full whitepaper:
 > *“Comments aren’t bugs. They’re features.”*
 
 
-### Philosophy
+### 🧠 Philosophy of Comment Handling
+
+Comments aren’t just decoration — they carry meaning, intent, and context. To explore how JsonPlusComments.Net treats comments during transformations like attribute moves, merges, and renames, read the blue paper:
 
 📘 [Comment Handling Blue Paper](docs/comment-handling-bluepaper.md)  
 A deep dive into how comments are preserved, transformed, and respected across JSON structures.
-
 
