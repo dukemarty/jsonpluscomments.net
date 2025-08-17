@@ -30,10 +30,24 @@ Whether you're wrangling config files, building dev tools, or just tired of your
 
 ### 📄 Project Rationale
 
-💡 Curious why this library exists or why comment-aware JSON matters?
+💡 Why does this library exist?
+
+Modern .NET apps rely heavily on JSON-based configuration files like appsettings.json. But when these configs evolve—new features, renamed keys, deprecated settings—developers are left manually updating files, often losing valuable comments and user edits in the process.
+
+JsonPlusComments.Net aims to fix that.
+
+By preserving comment structure and formatting, this library lays the groundwork for safe, systematic config migrations—where updates can be applied programmatically without erasing human context.
 
 Check out the full whitepaper:  
 📘 [Preserving Meaning: Comment-Aware JSON for Configuration in .NET](docs/comment-aware-json-whitepaper.md)
 
 > *“Comments aren’t bugs. They’re features.”*
+
+
+### 🧠 Philosophy of Comment Handling
+
+Comments aren’t just decoration — they carry meaning, intent, and context. To explore how JsonPlusComments.Net treats comments during transformations like attribute moves, merges, and renames, read the blue paper:
+
+📘 [Comment Handling Blue Paper](docs/comment-handling-bluepaper.md)  
+A deep dive into how comments are preserved, transformed, and respected across JSON structures.
 
